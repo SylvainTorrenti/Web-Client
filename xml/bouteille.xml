@@ -8,7 +8,7 @@
         <composition volume="litre">
             <ion_positifs>
                 <calcium>71 mg/L</calcium>
-                <magnésium>5.5 mg/L</magnésium>
+                <magnesium>5.5 mg/L</magnesium>
             </ion_positifs>
             <ion_negatifs>
                 <chlorures>20 mg/L</chlorures>
@@ -27,7 +27,7 @@
         <composition volume="litre">
             <ion_positifs>
                 <calcium>98 mg/L</calcium>
-                <magnésium>4 mg/L</magnésium>
+                <magnesium>4 mg/L</magnesium>
             </ion_positifs>
             <ion_negatifs>
                 <chlorures>3.6 mg/L</chlorures>
@@ -44,7 +44,7 @@
         <composition volume="litre">
             <ion_positifs>
                 <calcium>11.5 mg/L</calcium>
-                <magnésium>8 mg/L</magnésium>
+                <magnesium>8 mg/L</magnesium>
             </ion_positifs>
             <ion_negatifs>
                 <chlorures>13.5 mg/L</chlorures>
