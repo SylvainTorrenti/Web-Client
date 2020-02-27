@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuages>
+    <espece> lenticularis, stratiformis, castellanus, flocus, spissatus, uncinus et fibratus</espece>
+        <nom>L'altocumulus</nom>
+        <altitude_maximale>6000 m</altitude_maximale>
+        <altitude_minimale>2000 m</altitude_minimale>
+        <nom>Cirrocumulus</nom>
+        <altitude_maximale>7000 m</altitude_maximale>
+        <altitude_minimale>5000 m</altitude_minimale>
+        <nom>cirrus</nom>
+        <altitude_maximale>12000 m</altitude_maximale>
+        <altitude_minimale>6000 m</altitude_minimale>
+    <espece> stratiformis, lenticularis et castellanus</espece>
+        
+
+</nuages>
