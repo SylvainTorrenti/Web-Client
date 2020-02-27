@@ -7,12 +7,12 @@
         <contenance>150cl</contenance>
         <composition volume="litre">
             <ion_positifs>
-                <calcium>71 mg</calcium>
-                <magnésium>5.5 mg</magnésium>
+                <calcium>71 mg/L</calcium>
+                <magnésium>5.5 mg/L</magnésium>
             </ion_positifs>
             <ion_negatifs>
-                <chlorures>20 mg</chlorures>
-                <nitrates>1 mg</nitrates>
+                <chlorures>20 mg/L</chlorures>
+                <nitrates>1 mg/L</nitrates>
             </ion_negatifs>
         </composition>
         <code_barre>3274080005003</code_barre>
@@ -26,12 +26,12 @@
         <contenance>50cl</contenance>
         <composition volume="litre">
             <ion_positifs>
-                <calcium>98 mg</calcium>
-                <magnésium>4 mg</magnésium>
+                <calcium>98 mg/L</calcium>
+                <magnésium>4 mg/L</magnésium>
             </ion_positifs>
             <ion_negatifs>
-                <chlorures>3.6 mg</chlorures>
-                <nitrates>2 mg</nitrates>
+                <chlorures>3.6 mg/L</chlorures>
+                <nitrates>2 mg/L</nitrates>
             </ion_negatifs>
         </composition>
         <code_barre>3268840001008</code_barre>
@@ -43,12 +43,12 @@
         <contenance>50cl</contenance>
         <composition volume="litre">
             <ion_positifs>
-                <calcium>11.5 mg</calcium>
-                <magnésium>8 mg</magnésium>
+                <calcium>11.5 mg/L</calcium>
+                <magnésium>8 mg/L</magnésium>
             </ion_positifs>
             <ion_negatifs>
-                <chlorures>13.5 mg</chlorures>
-                <nitrates>6.3 mg</nitrates>
+                <chlorures>13.5 mg/L</chlorures>
+                <nitrates>6.3 mg/L</nitrates>
             </ion_negatifs>
         </composition>
         <code_barre>3057640117008</code_barre>
