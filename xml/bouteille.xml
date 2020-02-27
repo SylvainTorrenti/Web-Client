@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bouteille>
+    <source>
+        <lieu>St-Cyr</lieu>
+        <departement>LOIRET</departement>
+        <nom>Cristaline</nom>
+        <contenance>150cl</contenance>
+        <composition_par_litre>
+            <ion_positifs>
+                <calcium>71 mg</calcium>
+                <magnésium>5.5 mg</magnésium>
+            </ion_positifs>
+            <ion_negatifs>
+                <chlorures>20 mg</chlorures>
+                <nitrates>1 mg</nitrates>
+            </ion_negatifs>
+        </composition_par_litre>
+        <code_barre>3274080005003</code_barre>
+        <ph>7.45</ph>
+        <autres_materiaux>fer</autres_materiaux>
+    </source>
+    <source>
+        <lieu>Auréle</lieu>
+        <departement>Alpes Maritimes</departement>
+        <nom>Cristaline</nom>
+        <contenance>50cl</contenance>
+        <composition_par_litre>
+            <ion_positifs>
+                <calcium>98 mg</calcium>
+                <magnésium>4 mg</magnésium>
+            </ion_positifs>
+            <ion_negatifs>
+                <chlorures>3.6 mg</chlorures>
+                <nitrates>2 mg</nitrates>
+            </ion_negatifs>
+        </composition_par_litre>
+        <code_barre>3268840001008</code_barre>
+        <ph>7.4</ph>
+    </source>
+    <source>
+        <lieu>Volvic</lieu>
+        <nom>Volvic</nom>
+        <contenance>50cl</contenance>
+        <composition_par_litre>
+            <ion_positifs>
+                <calcium>11.5 mg</calcium>
+                <magnésium>8 mg</magnésium>
+            </ion_positifs>
+            <ion_negatifs>
+                <chlorures>13.5 mg</chlorures>
+                <nitrates>6.3 mg</nitrates>
+            </ion_negatifs>
+        </composition_par_litre>
+        <code_barre>3057640117008</code_barre>
+        <ph>7</ph>
+        <autres_materiaux>silice</autres_materiaux>
+    </source>
+</bouteille>
