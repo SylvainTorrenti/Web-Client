@@ -1,64 +1,64 @@
 <!DOCTYPE html>
-<html lang="fr">
-
+<html lang="en">
 <head>
-    <link rel="stylsheet" href="../../assets/css/tableau.css">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Tableau</title>
     <style>
-        td,
-        th {
-            border: 1px solid black;
-        }
-
-        h1,
-        caption {
-            font-size: 200%;
-            color: navy;
-            text-align: center;
-        }
-
-        th {
-            font-size: 200%;
-        }
+            td,
+            th {
+                border: 1px solid black;
+            }
     </style>
-
 </head>
-
-<body">
-    <h1>Le tableau</h1>
+<body>
     <table>
-        <caption>Titre du tableau</caption>
         <tr>
-            <th colspan="4">Titre 1</th>
-
+            <th colspan="6">Time table</th>
         </tr>
-
+        <td rowspan="7"><strong>Hours</strong></td>
         <tr>
-            <td rowspan="4">Titre 2</td>
-        </tr>
-        <tr>
-            <td>ligne 1 colonne 1</td>
-            <td>ligne 1 colonne 2</td>
-            <td>ligne 1 colonne 3</td>
+            <td><strong>Mon</strong></td>
+            <td><strong>Tue</strong></td>
+            <td><strong>Wed</strong></td>
+            <td><strong>Thu</strong></td>
+            <td><strong>Fri</strong></td>
         </tr>
         <tr>
-            <td>ligne 2 colonne 1</td>
-            <td>ligne 2 colonne 2</td>
-            <td>ligne 2 colonne 3</td>
-
+            <td>Science</td>
+            <td>Maths</td>
+            <td>Science</td>
+            <td>Maths</td>
+            <td>Arts</td>
         </tr>
         <tr>
-            <td>ligne 3 colonne 1</td>
-            <td>ligne 3 colonne 2</td>
-            <td>ligne 3 colonne 3</td>
-
+            <td>Social</td>
+            <td>History</td>
+            <td>English</td>
+            <td>Social</td>
+            <td>Sports</td>
+        </tr>
+        <tr>
+            <td colspan="5"><strong><center>Lunch</center></strong></td>
+            
+        </tr>
+        <tr>
+            <td>Science</td>
+            <td>Maths</td>
+            <td>Science</td>
+            <td>Mathd</td>
+            <td rowspan="2">Project</td>
+        </tr>
+        <tr>
+            <td>Social</td>
+            <td>History</td>
+            <td>English</td>
+            <td>Social</td>
+            
         </tr>
     </table>
-    <script src="../../assets/css/tableau.css"></script>
-    <a href="../../modele_page.html" title="Retour">retour</a>
-    </body>
-
-
-
+    
+</body>
+<a href="../../modele_page.html" title="Retour">retour</a>
 </html>
