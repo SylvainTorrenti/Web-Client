@@ -7,11 +7,11 @@
     <title>Tableau</title>
 </head>
 <style>
-    td {
+    td,th {
         border: 1px solid black;
     }
 
-    h1 {
+    h1,caption {
         font-size: 200%;
         color: navy;
         text-align: center;
@@ -21,7 +21,14 @@
 <body>
     <h1>Le tableau</h1>
     <table>
-
+        <caption>Titre du tableau</caption>
+<tr>
+    <th colspan="4">Titre 1</th>
+    
+</tr>
+<tr>
+    <td rowspan="2">Ligne 1 et 2 colonne 1</td>
+</tr>
         <tr>
             <td>ligne 1 colonne 1</td>
             <td>ligne 1 colonne 2</td>
