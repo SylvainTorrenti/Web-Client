@@ -4,25 +4,111 @@
 <head>
     <title>A Propos</title>
     <meta charset="UTF-8">
+    <style>
+        #wrapper {
+            width: 980px;
+            margin: 0 auto 0 auto;
+        }
+
+        #main {
+            float: left;
+            width: 75%;
+            margin: 0 0 50px 0;
+        }
+
+        #sidebar {
+            float: left;
+            width: 22%;
+            margin-left: 1%;
+            margin-top: 1em;
+        }
+
+        footer {
+            clear: both;
+        }
+
+        #wrapper>nav {
+            padding: 1em;
+            border: 1px dashed #444;
+            margin-top: 1em;
+        }
+
+
+
+        article {
+            border: 1px dashed #444;
+            margin: 1em;
+            padding: 1em;
+            background: #fff;
+        }
+
+        article h2 {
+            margin-top: 1em;
+        }
+
+        article header,
+        article footer {
+            border: 1px dashed #ccc;
+            padding: 1em;
+            background: #ddd;
+        }
+
+        aside {
+            border: 1px dashed #444;
+        }
+
+        article aside {
+            background: #fff;
+            margin: 1em 3em;
+            padding: 0.5em;
+            border: 1px dashed #ccc;
+        }
+
+        /* Marquage spécifique */
+
+        article,
+        footer,
+        header,
+        aside,
+        nav {
+            position: relative;
+        }
+
+        
+    </style>
 </head>
 
 <body>
-    <h1 id="ancre_du_lien">Ceci est l'à Propos</strong></h1>
-    <p>Ceci est le cr&eacute;ation du premier site de Sylvain Torrenti</p>
-    
-    </p>
-    <h1>Sommaire</h1>
-    <ol>
-        <li><a href="#multiplication">Multiplication</a></li>
-        <li><a href="#Contact">Contact</a></li>
-        <li><a href="#Surrend">Surrend</a></li>
-        <li><a href="#Formation">Formation</a></li>
-        <li><a href="#Skin">Skin</a></li>
-        <li><a href="#Skin_auto">Skin auto</a></li>
-        <li><a href="#Tableau">Tableau</a></li>
-        <li><a href="#Formulaire">Formulaire</a></li>
-        <li><a href="#Exercice">Exercices</a> </li>
-    </ol>
+    <div>
+        <h1 id="ancre_du_lien">Ceci est l'à Propos</strong></h1>
+        <p>Ceci est le cr&eacute;ation du premier site de Sylvain Torrenti</p>
+
+        </p>
+        <aside id="sidebar">
+            <span class="elem"></span>
+
+            <h1>Sommaire</h1>
+
+            <h3>Navigation</h3>
+            <nav>
+                <span class="elem"></span>
+                <ul>
+                    <li><a href="#multiplication">Multiplication</a></li>
+                    <li><a href="#Contact">Contact</a></li>
+                    <li><a href="#Surrend">Surrend</a></li>
+                    <li><a href="#Formation">Formation</a></li>
+                    <li><a href="#Skin">Skin</a></li>
+                    <li><a href="#Skin_auto">Skin auto</a></li>
+                    <li><a href="#Tableau">Tableau</a></li>
+                    <li><a href="#Formulaire">Formulaire</a></li>
+                    <li><a href="#Exercice">Exercices</a> </li>
+                </ul>
+            </nav>
+        </aside>
+    </div>
+
+
+
     <p>
         <h2 id="multiplication">Multiplication</h2>
         Une liste des tables de multiplications.
