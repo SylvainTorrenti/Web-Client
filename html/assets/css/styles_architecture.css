@@ -26,3 +26,6 @@ nav li a:hover{
     background-color: #f0462b;
     color: #ebebea;
 }
+p{
+    background-color: yellow;
+}
