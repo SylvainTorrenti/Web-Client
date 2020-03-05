@@ -1,13 +1,13 @@
 nav>ul>li {
     
     display:inline-block;
-    font-size: x-small;
+    font-size: small;
     text-align: right;   
 }
 ul{
     float: right;
 }
-header>h2{
+header>h1{
     float: left;
 }
 
@@ -33,9 +33,11 @@ section>p{
     text-align: center;
     font-size: 5em;
 }
-#image2{
-    text-align: center;
+table{
+    border-spacing: 10px;
+    
 }
-#image3{
-    text-align: right;
+td{
+    width: 666.66px;
+    
 }
