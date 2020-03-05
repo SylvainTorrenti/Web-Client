@@ -18,19 +18,24 @@ header>h2{
 }
 section{
     background-image: url(../../images/Travel_Agency/main.jpg);
-    
-    min-width: 100%;
-    min-height: 100%;
+    width: 2000px;    
+    height: 697px;
     
 }
+
 section>button{
     background-color: orange;
     display: block;
     margin: auto; 
-    font-size: larger;
+    font-size: x-large;
 }
 section>p{
     text-align: center;
     font-size: 5em;
 }
-
+#image2{
+    text-align: center;
+}
+#image3{
+    text-align: right;
+}
