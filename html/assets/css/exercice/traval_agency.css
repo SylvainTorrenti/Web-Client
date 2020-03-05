@@ -1,0 +1,26 @@
+nav>ul>li {
+    
+    display:inline-block;
+    font-size: x-small;
+    text-align: right;   
+}
+ul{
+    float: right;
+}
+header>h2{
+    float: left;
+}
+
+.dessous
+{
+    clear: both;
+}
+section{
+    background-image: url(../../images/Travel_Agency/main.jpg)
+}
+section>button{
+    background-color: orange;
+    display: block;
+    margin: auto; 
+}
+
