@@ -11,16 +11,26 @@ header>h2{
     float: left;
 }
 
+
 .dessous
 {
     clear: both;
 }
 section{
-    background-image: url(../../images/Travel_Agency/main.jpg)
+    background-image: url(../../images/Travel_Agency/main.jpg);
+    
+    min-width: 100%;
+    min-height: 100%;
+    
 }
 section>button{
     background-color: orange;
     display: block;
     margin: auto; 
+    font-size: larger;
+}
+section>p{
+    text-align: center;
+    font-size: 5em;
 }
 
