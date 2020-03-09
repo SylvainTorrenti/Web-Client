@@ -25,7 +25,7 @@ section{
     background-image: url(../../images/Travel_Agency/main.jpg);
     width: 2000px;    
     height: 697px;
-    font-family: dejaVu sans mono, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 div{
@@ -43,7 +43,7 @@ section>button{
 }
 section>p{
     text-align: center;
-    font-size: 5em;
+    font-size: 3em;
 }
 #tableau1{
     border-spacing: 10px;
