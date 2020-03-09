@@ -1,0 +1,12 @@
+p.remarque{
+    font-style: italic;
+}
+.remarque{
+    font-style: italic
+}
+.important{
+    font-weight: bold;
+}
+.remarque.important{
+    color: red;
+}
