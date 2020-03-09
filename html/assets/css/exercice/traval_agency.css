@@ -9,6 +9,7 @@ ul{
 }
 header>h1{
     float: left;
+    font-family: 'Crete Round', serif;
 }
 
 
@@ -23,21 +24,103 @@ section{
     
 }
 
+
 section>button{
-    background-color: orange;
+    background-color:rgb(255, 122, 0);
     display: block;
     margin: auto; 
     font-size: x-large;
+    border-radius: 10px;
 }
 section>p{
     text-align: center;
     font-size: 5em;
 }
-table{
+#tableau1{
     border-spacing: 10px;
+    margin: 0 auto;
     
 }
-td{
+section>td{
     width: 666.66px;
     
 }
+
+
+blockquote{
+    font-style: italic
+}
+button{
+    background-color:rgb(255, 122, 0);
+    color: white;
+    
+    border-radius: 10px;
+}
+label{
+    font-weight: bold;
+}
+footer{
+    background-color: rgb(68, 68, 68);
+    width: 2000px;
+    height: 200px;    
+
+}
+footer>h2{
+    font-family: 'Crete Round', serif;
+    color: white;
+    text-align: center;
+}
+footer>p{
+    color: lightgray;
+    text-align: center;
+}
+article>h2{
+    text-align: center;
+}
+article>p{
+    text-align: center;
+    font-size: small;
+}
+form{
+    text-align: center;
+}
+form>button{
+    background-color: rgb(2,184,221);
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.ligne{
+    width: 350px;
+    border-bottom: 1px solid rgb(2, 184, 221);
+    height: 2px;
+  
+    display: block;
+    margin: auto;
+    
+}
+span{
+    color: orange;
+}
+
+table{
+    background-color: rgb(249, 252, 253);
+    border-radius: 10px;  
+    text-align: center;
+}
+
+.ligne2{
+    width: 50px;
+    border-bottom: 1px solid rgb(221, 221, 221)
+}
+
+#image1{
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#article1{
+    float: right;
+}
+
