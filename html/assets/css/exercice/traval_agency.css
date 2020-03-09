@@ -3,9 +3,13 @@ nav>ul>li {
     display:inline-block;
     font-size: small;
     text-align: right;   
+    font-family: dejaVu sans mono, monospace;
+    
+    
 }
 ul{
     float: right;
+    
 }
 header>h1{
     float: left;
@@ -21,9 +25,14 @@ section{
     background-image: url(../../images/Travel_Agency/main.jpg);
     width: 2000px;    
     height: 697px;
+    font-family: dejaVu sans mono, monospace;
     
 }
-
+div{
+    background-color: rgb(239,239,239);
+    width: 2000px;
+    height: 296px;
+}
 
 section>button{
     background-color:rgb(255, 122, 0);
