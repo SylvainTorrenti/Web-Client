@@ -35,6 +35,8 @@ header>h1{
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
     
+    
+    
 }
 
 
@@ -52,6 +54,7 @@ section>p{
 #tableau1{
     border-spacing: 10px;
     margin: 0 auto;
+    text-align: center;
     
 }
 section>td{
@@ -100,7 +103,7 @@ form{
 form>button{
     background-color: rgb(2,184,221);
     color: white;
-    border-radius: 10px;
+    border-radius: 3px;
     
 }
 
@@ -110,38 +113,48 @@ form>button{
     height: 2px;
   
     display: block;
-    margin: auto;
-    
+    margin: auto;   
+}
+#image1{
+    width: 346px;
+    height: 203px;
 }
 span{
     color: orange;
 }
-
-table{
-    background-color: rgb(249, 252, 253);
-    border-radius: 10px;  
-    text-align: center;
-}
-
 .ligne2{
     width: 50px;
     border-bottom: 1px solid rgb(221, 221, 221)
 }
-
-#image1{
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    height: 200px;
-    
-    
-   
-}
-
 #article1{
-    background-color: white;
-    width: 600px;
     
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    float: left;
     
+    width: 346px;
+    height: 203px;
+    background-image: url(../../../assets/images/Travel_Agency/article-image-1.jpg);
+    background-size: cover;
+    
+}
+#article2{
+    
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    float: left;
+    
+    width: 346px;
+    height: 203px;
+    background-image: url(../../../assets/images/Travel_Agency/article-image-2.jpg);
+    background-size: cover;
+    
+}
+#div1{
+    border: solid 2px black;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto
 }
 
 
