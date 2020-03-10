@@ -21,12 +21,19 @@ header>h1{
 {
     clear: both;
 }
-section{
+#section1{
     background-image: url(../../images/Travel_Agency/main.jpg);
     width: 2000px;    
     height: 697px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
+}
+#section2{
+    background-color: rgb(239,239,239);
+    width: 2000px;
+    height: 296px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 
@@ -123,9 +130,15 @@ table{
 #image1{
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
+    height: 200px;
+    
+   
 }
 
 #article1{
-    float: right;
+    background-color: white;
+    width: 600px;
+    
 }
+
 

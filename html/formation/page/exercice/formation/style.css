@@ -1,0 +1,19 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1~p, h2~p, h3~p, h4~p, h5~p, h6~p{
+    font-style: italic;
+}
+
+
+p+a{
+
+    color: red;
+}
+section a{
+    font-size: xx-large;
+}
+section>p{
+    font-weight: bold;
+    background-color: red;
+}
