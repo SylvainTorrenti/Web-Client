@@ -8,3 +8,6 @@ p {
 .box{
     box-sizing: border-box;
 }
+.over{
+    overflow: auto;
+}
