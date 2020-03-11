@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+}
+.contenu {
+    float: left;
+    width: 80%;
+    background-color: pink;
+}
+
+.side {
+    float: left;
+    width: 20%;
+    background-color: beige
+}
+
+.footer {
+    clear: both;
+    background-color: greenyellow;
+}
+header{
+    background-color: aqua;
+}

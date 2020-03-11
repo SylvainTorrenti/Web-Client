@@ -2,6 +2,8 @@ a:hover{
     background-color: blue;
     color: white;
 }
-ul{
+ul li{
    list-style-type: none;
+   display: inline-block;
+   
 }

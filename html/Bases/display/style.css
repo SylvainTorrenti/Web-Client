@@ -1,0 +1,9 @@
+a {
+    display: block;
+}
+#hidden{
+    visibility: hidden;
+}
+#none{
+    display: none;
+}

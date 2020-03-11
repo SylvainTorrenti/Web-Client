@@ -1,3 +1,11 @@
 img{
     float: left;
 }
+p{
+    clear: left;
+}
+.over{
+    height: 70px;
+    background-color: coral;
+    overflow: hidden;
+}
