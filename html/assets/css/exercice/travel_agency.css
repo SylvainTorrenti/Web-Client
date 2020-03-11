@@ -1,0 +1,55 @@
+header h1{
+    float: left;
+    font-family: 'Crete Round', serif;
+    margin-left: 20%;
+}
+nav ul li {
+    display:inline-block;
+    font-size: small;
+    text-align: right;   
+    font-family: dejaVu sans mono, monospace; 
+    }
+ul{
+    float: right;  
+}
+span{
+    color: orange;
+}
+.dessous
+{
+    clear: both;
+}
+#section1{
+    background-image: url(../../images/Travel_Agency/main.jpg);
+    width: 2000px;    
+    height: 697px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+}
+section p{
+    text-align: center;
+    font-size: 3em;
+    padding-top: 10%;
+}
+section button{
+    background-color:rgb(255, 122, 0);
+    display: block;
+    margin: auto; 
+    font-size: x-large;
+    border-radius: 5px;
+}
+#tableau1{
+    border-spacing: 10px;
+    margin: 0 auto;
+    text-align: center;   
+}
+blockquote{
+    font-style: italic
+}
+button{
+    background-color:rgb(255, 122, 0);
+    color: white;
+    border-radius: 5px;
+}
+label{
+    font-weight: bold;
+}
