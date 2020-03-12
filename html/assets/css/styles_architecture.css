@@ -1,6 +1,6 @@
 /* navigation */
 nav {
-    background-color: #f2662a;
+    background-color: darkcyan;
     height: 35px;
 }
 
@@ -23,9 +23,27 @@ nav li a{
 }
 
 nav li a:hover{
-    background-color: #f0462b;
+    background-color: darkcyan;
     color: #ebebea;
 }
-p{
-    background-color: yellow;
+#img{
+    margin: auto;
+}
+#div1{
+    height: 500px;
+    width: 500px;
+}
+#div1{
+    
+    margin: auto;
+}
+
+#p1{
+    color: darkcyan;
+    padding-left: 500px;
+    padding-right: 500px;
+    
+}
+a{
+    color: white;
 }
