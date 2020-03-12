@@ -1,21 +1,30 @@
+* {
+    margin: 0;
+}
+
+header {
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 header h1 {
     float: left;
     font-family: 'Crete Round', serif;
     margin-left: 20%;
+    padding-top: 20px;
 }
 
 nav ul li {
     display: inline-block;
-    font-size: small;
-    text-align: right;
-    font-family: dejaVu sans mono, monospace;
+    font-size: 1em;
     font-weight: bold;
-    
+    margin-left: 6px;
 }
 
 ul {
     float: right;
     padding-right: 25%;
+    padding-top: 40px;
 }
 
 span {
@@ -26,46 +35,72 @@ span {
     clear: both;
 }
 
+#button1 {
+    background-color: rgb(255, 122, 0);
+    display: block;
+    margin: auto;
+    font-size: x-large;
+    border-radius: 2px;
+    color: white;
+}
+
 #section1 {
     background-image: url(../../images/Travel_Agency/main.jpg);
     width: 2000px;
     height: 697px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 section p {
     text-align: center;
     font-size: 3em;
     padding-top: 10%;
+    padding-bottom: 3%;
 }
 
 section button {
     background-color: rgb(255, 122, 0);
     display: block;
-    margin: auto;
+    margin: 5% auto;
     font-size: x-large;
-    border-radius: 5px;
+    border-radius: 1px;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgba(255, 255, 255, 0);
 }
 
 #tableau1 {
     border-spacing: 10px;
     margin: 0 auto;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#td1{
+    color: rgba(0, 0, 0, 0.507);
 }
 
 #section2 {
     background-color: rgb(239, 239, 239);
     width: 100%;
     height: 296px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 blockquote {
-    font-style: italic
+    font-style: italic;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 0.8em;
+    color: rgba(0, 0, 0, 0.616);
+    line-height: 150%;
+    
 }
 
 .button {
     font-size: small;
+    border: 1px solid rgba(255, 255, 255, 0);
 }
 
 #article1 {
@@ -101,14 +136,26 @@ div {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
-article{
+
+article {
     height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+article h3 {
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+    width: 150px;
+    margin: 0 auto;
+    padding-bottom: 15%;
+    padding-top: 5%;
+    font-size: 1.8em;
+}
+
 label {
     font-weight: bold;
     color: rgba(0, 0, 0, 0.637);
 }
-
 
 article h2 {
     text-align: center;
@@ -117,7 +164,7 @@ article h2 {
     margin: 0 auto;
     padding: 1%;
     font-size: 2em;
-    
+    padding-top: 3%;
 }
 
 article p {
@@ -125,14 +172,16 @@ article p {
     font-size: small;
     padding-bottom: 3%;
     color: rgba(0, 0, 0, 0.473);
+    padding-top: 1%;
 }
 
 form {
     text-align: center;
     font-size: 1.3em;
 }
-input[type="text"]{
-	height: 40px;
+
+input[type="text"] {
+    height: 30px;
 }
 
 form button {
@@ -140,6 +189,8 @@ form button {
     color: white;
     border-radius: 3px;
     font-size: 0.8em;
+    height: 40px;
+    border: 1px solid rgba(255, 255, 255, 0);
 }
 
 footer {
@@ -152,9 +203,13 @@ footer h2 {
     font-family: 'Crete Round', serif;
     color: white;
     text-align: center;
+    padding-top: 4%;
+    font-size: 2.5em;
+    padding-bottom: 1%;
 }
 
 footer p {
     color: lightgray;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }

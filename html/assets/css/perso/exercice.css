@@ -1,4 +1,13 @@
-body{
-background-image: url(../../images/Exercice/Fond.jpg)
+* {
+    margin: 0;
+}
 
+section {
+    background-color: rgb(159, 160, 164);
+    height: 1200px;
+    
+}
+
+a{
+    color: white;
 }
