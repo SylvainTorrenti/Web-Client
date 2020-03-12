@@ -1,5 +1,5 @@
 body{
-    background-color: darkcyan;
+    background-color: purple;
 }
 #wrapper {
     width: 980px;
@@ -68,4 +68,16 @@ header,
 aside,
 nav {
     position: relative;
+}
+li a{
+    color: cyan;
+}
+h1, h3{
+    color: darkcyan;
+}
+#p1, p a{
+    color: white;
+}
+h2 a{
+    color: cyan;
 }
