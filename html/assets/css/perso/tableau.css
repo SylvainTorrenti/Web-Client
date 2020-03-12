@@ -1,0 +1,10 @@
+td, th {
+    border: 1px solid black;
+    background-color: white;
+}
+body{
+    background-color: purple;
+}
+a{
+    color: white;
+}

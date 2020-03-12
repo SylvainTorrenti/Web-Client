@@ -9,5 +9,14 @@ section {
 }
 
 a{
+    color: cyan;
+}
+h1{
+    color: purple;
+}
+ol{
+    color: darkcyan;
+}
+p a{
     color: white;
 }
