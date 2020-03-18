@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<planete>
+    <nom>Mercure</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">167</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">4 878</diamétre>
+            <circonference distance="km">15 324.69</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">3.78</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">5.42</masse_volumique>
+        <masse unite="10^24 kg">0.33</masse>
+        <volume unite="10¹¹ km³">0.6077487</volume>
+        <satelites>0</satelites>
+        <rotation_sur_son_axe>58j 15h 38min</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">57.8</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">0.24</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">47.78</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <distance_moyenne_avec_la_Terre distance="millions de km">91.8</distance_moyenne_avec_la_Terre>
+    <nom>Venus</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">465</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">12 104</diamétre>
+            <circonference distance="km">38 019.55</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">8.6</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">5.24</masse_volumique>
+        <masse unite="10^24 kg">4.87</masse>
+        <volume unite="10¹¹ km³">9.2804721</volume>
+        <satelites>0</satelites>
+        <rotation_sur_son_axe>243j</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">108.2</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">0.615</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">35.02</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <distance_moyenne_avec_la_Terre distance="millions de km">41.4</distance_moyenne_avec_la_Terre>
+    <nom>Terre</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">15</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">12 756</diamétre>
+            <circonference distance="km">38 019.55</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">9.81</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">5.45</masse_volumique>
+        <masse unite="10^24 kg">5.9736</masse>
+        <volume unite="10¹¹ km³">10.8321</volume>
+        <satelites>1</satelites>
+        <rotation_sur_son_axe>23h 56min 4s</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">149.6</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">1</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">29.78</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <nom>Mars</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">-65</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">6794</diamétre>
+            <circonference distance="km">21318.84</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">3.72</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">3.93</masse_volumique>
+        <masse unite="10^24 kg">3.93</masse>
+        <volume unite="10¹¹ km³">1.6362143</volume>
+        <satelites>2</satelites>
+        <rotation_sur_son_axe>24h 37min 23s</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">227.9</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">1.88</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">24.11</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <distance_moyenne_avec_la_Terre distance="millions de km">77.9</distance_moyenne_avec_la_Terre>
+     <nom>Jupiter</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">-54</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">142 984</diamétre>
+            <circonference distance="km">449 197.48</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">24.892</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">1.32</masse_volumique>
+        <masse unite="10^24 kg">1 899</masse>
+        <volume unite="10¹¹ km³">15 305.97</volume>
+        <satelites>2</satelites>
+        <rotation_sur_son_axe>9h 50min</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">778.6</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">11.86</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">13.07</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <distance_moyenne_avec_la_Terre distance="millions de km">628.7</distance_moyenne_avec_la_Terre>
+     <nom>Saturne</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">-150</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">120 536</diamétre>
+            <circonference distance="km">378 675.01</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">10.584</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">0.68</masse_volumique>
+        <masse unite="10^24 kg">568</masse>
+        <volume unite="10¹¹ km³">9 169.57</volume>
+        <satelites>47</satelites>
+        <rotation_sur_son_axe>11.5h</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">1 433.5</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">29.46</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">9.66</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <distance_moyenne_avec_la_Terre distance="millions de km">1280.4</distance_moyenne_avec_la_Terre>
+ <nom>Uranus</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">-210</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">51 118</diamétre>
+            <circonference distance="km">160 591.93</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">8.624</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">1.27</masse_volumique>
+        <masse unite="10^24 kg">86.8</masse>
+        <volume unite="10¹¹ km³">699.39123</volume>
+        <satelites>27</satelites>
+        <rotation_sur_son_axe>17h 24min</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">2872.5</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">84</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">6.81</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <distance_moyenne_avec_la_Terre distance="millions de km">2725.4</distance_moyenne_avec_la_Terre>
+ <nom>Neptune</nom>
+    <caracteristique>
+        <temperature_moyenne unite="°C">-220</temperature_moyenne>
+        <taille>
+            <diamétre distance="km">49 528</diamétre>
+            <circonference distance="km">155 596.8</circonference>
+        </taille>
+        <attraction_gravitationnelle unite="N/kg">11.27</attraction_gravitationnelle>
+        <masse_volumique unite="kg/dm^3">1.63</masse_volumique>
+        <masse unite="10^24 kg">102</masse>
+        <volume unite="10¹¹ km³">636.1375</volume>
+        <satelites>2</satelites>
+        <rotation_sur_son_axe>16h 3min</rotation_sur_son_axe>
+    </caracteristique>
+    <caracteristique_par_rapport_au_soleil>
+        <distance_moyenne_avec_le_Soleil distance="millions de km">4 495.10</distance_moyenne_avec_le_Soleil>
+        <periode_de_revolution unite="an">164.79</periode_de_revolution>
+        <vitesse_autour_du_soleil unite="km/s">5.43</vitesse_autour_du_soleil>
+    </caracteristique_par_rapport_au_soleil>
+    <distance_moyenne_avec_la_Terre distance="millions de km">4 346.9</distance_moyenne_avec_la_Terre>
+</planete>
