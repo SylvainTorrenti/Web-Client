@@ -1,0 +1,7 @@
+var number1 = 2, number2 = 2, number3 = 4, result;
+result = number1 == number2; 
+alert(result); 
+result = number1 == number3;
+alert(result); 
+result = number1 < number3;
+alert(result);
